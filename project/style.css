@@ -1,0 +1,85 @@
+body{
+  background:black;
+
+}
+.place{
+  margin-top: 110px;
+  margin-right: 200px;
+  width: 1600px;
+  height:500px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  border:solid;
+}
+.card-body{
+  background-color: black;
+  color: white;
+}
+.home-index{
+  border: solid;
+  border-color: black;
+  margin-top: 100px;
+}
+.product-page{
+  background-color: white;
+  color:black;
+}
+.contact-page{
+
+  background-color: white;
+}
+.inp{
+  width: 1000px;
+  color:white;
+  margin-left: 100px;
+  padding-top: 5px;
+}
+.text{
+  color:white;
+    margin-left: 100px;
+}
+.sub-button{
+  margin-left: 100px;
+}
+.contact-form{
+  margin:70px;
+  border: solid;
+  background-color: black;
+}
+.Features-text{
+  padding:50px;
+  border:solid;
+  background-color: white;
+  width:1000px;
+  margin-left: 250px;
+  margin-top: 80px;
+}
+.footer-product{
+  background-color: white;
+}
+.product-link a{
+  color:black;
+}
+.contact-us-footer{
+  background-color:black;
+}
+
+.contact-text a{
+  color:white;
+}
+.contact-text{
+  color:white;
+}
+
+.service2-footer{
+  background-color:black;
+  width=1000px;
+}
+
+/* border of cards at products */
+.card-img-top{
+  border:solid;
+  border-color: white;
+}
